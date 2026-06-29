@@ -1,0 +1,29 @@
+body {
+    background: #464646;
+    margin: 20px;
+}
+
+.profile-img {
+    width: 150px;
+    height: 150px;
+}
+
+.card {
+    background: #e0e1ea;
+    color: #2b2839;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 400px;
+
+    margin: 0px auto;
+
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+
+    text-align: center;
+    border-bottom: 7px solid #354ba0;
+}
+
+.dotted-blue-border {
+    border: 1px dotted #21318b;
+}
